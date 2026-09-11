@@ -16,7 +16,7 @@ The core feature set was mapped as a UML **use-case diagram**, evolved across tw
 
 **Final digital use-case diagram**
 
-![Final use-case diagram](./assets/usecase-diagram-final.png)
+![Final use-case diagram](./assets/usecase-diagram-final.jpg)
 
 The diagram centers on a single **User** actor with five primary use cases — *View plan/article*, *Post plan*, *Pick plan*, *Post article*, and *Group chat* — with two `<<include>>` relationships showing how AI and social features are woven into the core flows rather than bolted on:
 - **Pick plan** `<<include>>` **AI-Based Plan** — plan selection is powered by AI-generated recommendations.
@@ -125,5 +125,5 @@ By embedding AI recommendations directly into the plan-picking step and voting d
 
 ## Appendix: Assets
 - `assets/usecase-diagram-draft.jpg` — early hand-drawn use-case sketch
-- `assets/usecase-diagram-final.png` — final digital use-case diagram
+- `assets/usecase-diagram-final.jpg` — final digital use-case diagram
 - `assets/ideation-board.png` — full ideation/mockup board (screens, motivation, feature groupings)
