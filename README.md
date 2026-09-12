@@ -3,7 +3,7 @@
 
 # Libur
 
-**Libur** ("holiday" / "day off" in Malay & Indonesian) is a collaborative trip-planning app that combines AI-generated plans   , community-shared travel plans and articles, and group decision-making where everybody wants (group chat + in-app voting) so that planning a trip with friends stops being a scattered mess of screenshots and group-chat chaos.
+**Libur** ("holiday" / "day off" in Malay & Indonesian) is a collaborative trip-planning app that combines AI-generated plans   , community-shared travel plans and articles, and group decision-making where everybody wants (group chat + in-app voting) so that planning a trip with friends stops being a scattered mess around different apps.
 
 ---
 
@@ -11,7 +11,7 @@
 
 ### Problem & Idea Origin
 
-Group trips constantly fall apart at the planning stage because plans, idea  end up scattered across half a dozen different apps. Furthermore, as our own real-life experiences prove, many of us are simply too lazy to take on the tedious burden of building a structured schedule from scratch. To solve this, Libur blends AI-generated plans, community-shared plans, travel articles (Inspired by Substack), group-chat and voting into one seamless platform, letting you experience a perfectly curated trip without the mental heavy lifting.
+Group trips constantly fall apart at the planning stage because itineraries and ideas end up scattered across half a dozen different apps. Furthermore, as our own real-life experiences prove, many of us are simply too lazy to take on the tedious burden of building a structured schedule from scratch. This sparked a realization: instead of forcing users to create a plan from zero, why not let them easily grab, adapt, and engage with proven itineraries already used by the community? To solve this, Libur blends AI-generated plans, community-shared trips, travel articles (inspired by Substack), and in-chat voting into one seamless platform—letting your group experience a perfectly curated vacation without the mental heavy lifting.
 
 - **AI-Based Plan** — AI suggestions (place, accommodation, transport).
 - **Article + Plan duality** — users can post either inspirational travel articles *or* structured plans, and view/browse both through the same "View plan/article" entry point, blending inspiration and execution in one feed.
