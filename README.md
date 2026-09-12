@@ -1,3 +1,6 @@
+
+![App Banner](./assets/banner.png)
+
 # Libur
 
 **Libur** ("holiday" / "day off" in Malay & Indonesian) is a collaborative trip-planning app that combines AI-generated plans   , community-shared travel plans and articles, and group decision-making where everybody wants (group chat + in-app voting) so that planning a trip with friends stops being a scattered mess of screenshots and group-chat chaos.
