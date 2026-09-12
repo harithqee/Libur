@@ -40,10 +40,10 @@ The final use-case diagram wasn't just documentation — it was used directly as
 ![Ideation board](./assets/ideation-board.png)
 
 **AI-Based Plan UI/UX**
-![AI-Based Plan UI/UX](./assets/Mockup%20Page%20(1).png)
+![AI-Based Plan UI/UX](./assets/Mockup%20Page.png)
 
 **Article + Plan duality UI/UX**
-![Article + Plan duality UI/UX](./assets/Mockup%20Page.png)
+![Article + Plan duality UI/UX](./assets/Mockup%20Page%20(1).png)
 
 **Voting UI/UX**
 ![Voting UI/UX](./assets/Mockup%20Page%20(2).png)
