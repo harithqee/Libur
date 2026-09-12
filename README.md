@@ -5,7 +5,12 @@
 
 **Libur** ("holiday" / "day off" in Malay & Indonesian) is a collaborative trip-planning app that combines AI-generated plans, community-shared travel plans and articles, and group decision-making where every voice is heard — group chat, in-app voting, and a shared wishlist — so that planning a trip with friends stops being a scattered mess spread across different apps, and everyone's wishes actually get fulfilled.
 
----
+
+[Figma](https://www.figma.com/design/66g0aoE0PNANvZUSdOm1Ey/HACKATHON-MAIN?node-id=791-3000&t=pAjmVOn8bMZ3mvkE-0)
+
+[Interactive Prototype](https://www.figma.com/proto/66g0aoE0PNANvZUSdOm1Ey/HACKATHON-MAIN?node-id=342-406&p=f&t=pAjmVOn8bMZ3mvkE-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=497%3A1343&show-proto-sidebar=1&page-id=0%3A1)
+
+
 
 ## Ideation
 
