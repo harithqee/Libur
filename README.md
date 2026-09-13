@@ -5,14 +5,14 @@
 
 **Team:** 
 
-- HARITH HAQEEMI BIN AHMAD
-- AHMAD RUKAINIE BIN MOU YUSOP
-- MUHAMMAD ARIF HILMI BIN REZUAN
-- MUHAMMAD ZULHAZIQ BIN MOHD ISMAIL
+- Harith Haqeemi Bin Ahmad
+- Ahmad Rukainie Bin Mou Yusop
+- Muhammad Arif Hilmi Bin Rezuan
+- Muhammad Zulhaziq Bin Mohd Ismail
 
 **Problem Statement:** Planning an Escape
 
-**Video Presentation:** [Libur - Myvi Putih Kebanggaan Tapah | CodeNection 2026]()
+**Video Presentation:** [Libur - Myvi Putih Kebanggaan Tapah | CodeNection 2026](https://www.youtube.com/watch?v=HiISIh3rpsM)
 
 **Presentation Slides:** [Canva](https://canva.link/6m95gtzvh2kmhi3)
 
@@ -165,7 +165,7 @@ The final use-case diagram wasn't just documentation — it was used directly as
 | Layer | Choice | Why / Constraints |
 |---|---|---|
 | Frontend | Flutter (Mobile App) & Tailwind CSS (Web/Admin) | Flutter allows building natively compiled applications for both iOS and Android from a single codebase, which saves development time. Tailwind CSS is paired with Laravel to quickly style any web-based admin dashboards or landing pages. |
-| Frontend | Swift (iOS) | Cannot afford a Macbook. |
+| Frontend | Swift (iOS) (Dropped) | Cannot afford a Macbook. |
 | Backend | Laravel (PHP) | A robust, highly secure framework that makes building RESTful APIs to communicate with the Flutter app fast and efficient. It handles complex logic for group chats, voting, and AI prompts seamlessly. |
 | Database | MySQL | A reliable relational database that perfectly handles the complex, structured relationships between users, group chats, shared wishlists, and travel itineraries. |
 | APIs / Services | GeminiAI API & Google Maps API | GeminiAI is required to power the AI itinerary generation and merge the "Shared Wishlists." Google Maps (or Mapbox) is needed to handle the real-world location data and the in-app Navigation feature. | 
@@ -175,7 +175,17 @@ The final use-case diagram wasn't just documentation — it was used directly as
 
 ### System Architecture Diagram
 
-[FILL IN — optional]
+    Flutter app (mobile — iOS & Android) / Laravel + Tailwind CSS (web/admin dashboard)
+    │
+    ├── Laravel REST API (PHP) — auth, group chats, voting, shared wishlists,
+    │                             itinerary CRUD, AI prompt orchestration
+    │
+    ├── MySQL — users, group chats, wishlists, itineraries, votes, places, articles ...
+    │
+    └── Pulls from: Gemini AI (itinerary generation, wishlist merging),
+                     Google Maps API (location data, in-app navigation, places datasets)
+
+Hosted on Railway (backend + database, auto-deployed from GitHub)
 
 ### Build Plan & Scope
 
