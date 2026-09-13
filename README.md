@@ -16,9 +16,10 @@
 
 **Presentation Slides:** [Canva](https://canva.link/6m95gtzvh2kmhi3)
 
-[Figma](https://www.figma.com/design/66g0aoE0PNANvZUSdOm1Ey/HACKATHON-MAIN?node-id=791-3000&t=pAjmVOn8bMZ3mvkE-0) · [Interactive Prototype](https://www.figma.com/proto/66g0aoE0PNANvZUSdOm1Ey/HACKATHON-MAIN?node-id=342-406&p=f&t=pAjmVOn8bMZ3mvkE-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=497%3A1343&show-proto-sidebar=1&page-id=0%3A1)
+[Figma](https://www.figma.com/design/66g0aoE0PNANvZUSdOm1Ey/HACKATHON-MAIN?node-id=791-3000&t=pAjmVOn8bMZ3mvkE-0) · [Interactive Prototype](https://www.figma.com/proto/66g0aoE0PNANvZUSdOm1Ey/HACKATHON-MAIN?node-id=497-1343&p=f&t=pAjmVOn8bMZ3mvkE-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=497%3A1343&page-id=0%3A1&show-proto-sidebar=1)
 
 ---
+![App Banner 2](./assets/banner%20(4).png)
 
 ## 1. Project Overview
 
@@ -61,6 +62,7 @@ This sparked an idea: instead of making users plan everything from zero, why not
 - **Shared Wishlist** — group members drop their individual must-dos into a shared wishlist, and the AI automatically weaves them into a balanced master itinerary.
 
 ---
+![App Banner 3](./assets/banner%20(3).png)
 
 ## 2. Ideation & Process
 
@@ -117,10 +119,11 @@ The core feature set was mapped as a UML use-case diagram, evolved across three 
 | [FILL IN] | [FILL IN] | [FILL IN] | [FILL IN] |
 
 ---
+![App Banner 4](./assets/banner%20(2).png)
 
 ## 3. Design & Prototype
 
-**UI Prototype:** [Interactive Prototype (Figma)](https://www.figma.com/proto/66g0aoE0PNANvZUSdOm1Ey/HACKATHON-MAIN?node-id=342-406&p=f&t=pAjmVOn8bMZ3mvkE-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=497%3A1343&show-proto-sidebar=1&page-id=0%3A1)
+**UI Prototype:** [Interactive Prototype (Figma)](https://www.figma.com/proto/66g0aoE0PNANvZUSdOm1Ey/HACKATHON-MAIN?node-id=497-1343&p=f&t=pAjmVOn8bMZ3mvkE-0&scaling=scale-down&content-scaling=fixed&starting-point-node-id=497%3A1343&page-id=0%3A1&show-proto-sidebar=1)
 
 The final use-case diagram wasn't just documentation — it was used directly as the reference for building the UI/UX mockups and screen flow.
 
