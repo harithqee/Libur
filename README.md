@@ -114,9 +114,16 @@ The core feature set was mapped as a UML use-case diagram, evolved across three 
 
 ### 2.3 Mentor Consultation
 
+## Mentor Feedback & Iteration Log
+
 | Date | Mentor | Feedback Received | What Was Changed |
-|---|---|---|---|
-| [FILL IN] | [FILL IN] | [FILL IN] | [FILL IN] |
+| :--- | :--- | :--- | :--- |
+| **13/9**<br><br><img src="./assets/Mentor%20Session.jpg" alt="Mentor Session" width="1080"> | **Faris Imran** | • UI is clean and has a lot of personality.<br><br>• Likes the idea and helped with execution strategy.<br><br>• Warned that full navigation and direct hotel booking are too expensive and complex to build.<br><br>• Suggested limiting navigation to finding the nearest public transport (based on his real-life travel needs), and limiting hotels to price comparison only. | • Dropped full in-app navigation and direct hotel booking to save development time and API costs.<br><br>• Pivoted to a lighter execution: basic routing to nearby public transit and a simple hotel price comparison tool. |
+
+**New use-case after Feedback**
+![Use-case Iteration](./assets/use-case%20iteration.png)
+*Refining the scope based on mentor feedback: pivoting from full navigation and direct booking to lighter, cost-effective features like nearby public transit routing and hotel price comparisons.*
+
 
 ---
 ![App Banner 4](./assets/banner%20(2).png)
